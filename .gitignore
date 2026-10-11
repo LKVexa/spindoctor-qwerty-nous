@@ -1,0 +1,4 @@
+__pycache__/
+*.py[cod]
+engine/examples/theory/*.pdf
+tests/*_results.json

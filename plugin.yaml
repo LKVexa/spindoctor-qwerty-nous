@@ -1,0 +1,17 @@
+{
+  "name": "spindoctor-qwerty",
+  "version": "1.1.0",
+  "description": "SpinDoctor 3.1.2 classical FP64 simulator: 1-298 logical qubits, 241 presets, folders, function table and theory tests with TXT/PDF/JSON/CSV reports. Native Python tools for Nous Research Hermes Agent.",
+  "author": "RUSSELL PHILIP SMITHSON <russellsmithson77@outlook.com>",
+  "license": "GPL-3.0-or-later",
+  "homepage": "https://github.com/LKVexa/spindoctor-qwerty-nous",
+  "manifest_version": 1,
+  "provides_tools": [
+    "spindoctor_run_script",
+    "spindoctor_run_preset",
+    "spindoctor_list_presets",
+    "spindoctor_report",
+    "spindoctor_functions",
+    "spindoctor_test_theory"
+  ]
+}
